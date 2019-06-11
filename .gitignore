@@ -1,11 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-/.idea/
-.gitignore
-.idea/designPattern.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml/
-/设计原则/*/*.iml
-/设计原则/设计原则.iml
-/设计模式/*/*.iml
-/设计模式/设计模式.iml
