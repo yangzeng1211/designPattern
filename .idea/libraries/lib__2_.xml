@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib (2)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/设计模式/36 解释器模式/Interpreter/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/设计模式/36 解释器模式/Interpreter/lib" recursive="false" />
+  </library>
+</component>

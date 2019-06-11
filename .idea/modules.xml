@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/设计原则/05 里氏替换原则/05 里氏替换原则.iml" filepath="$PROJECT_DIR$/设计原则/05 里氏替换原则/05 里氏替换原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计原则/06 依赖倒置原则/06 依赖倒置原则.iml" filepath="$PROJECT_DIR$/设计原则/06 依赖倒置原则/06 依赖倒置原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计原则/08 接口隔离原则/08 接口隔离原则.iml" filepath="$PROJECT_DIR$/设计原则/08 接口隔离原则/08 接口隔离原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计原则/09 迪米特法则/09 迪米特法则.iml" filepath="$PROJECT_DIR$/设计原则/09 迪米特法则/09 迪米特法则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/111/111/111.iml" filepath="$PROJECT_DIR$/111/111/111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/12 单例模式/12 单例模式.iml" filepath="$PROJECT_DIR$/设计模式/12 单例模式/12 单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/13 原型模式/13 原型模式.iml" filepath="$PROJECT_DIR$/设计模式/13 原型模式/13 原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/14 工厂方法模式/14 工厂方法模式.iml" filepath="$PROJECT_DIR$/设计模式/14 工厂方法模式/14 工厂方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/15 抽象工厂模式/15 抽象工厂模式.iml" filepath="$PROJECT_DIR$/设计模式/15 抽象工厂模式/15 抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/16建造者模式/16建造者模式.iml" filepath="$PROJECT_DIR$/设计模式/16建造者模式/16建造者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/18 代理模式/18 代理模式.iml" filepath="$PROJECT_DIR$/设计模式/18 代理模式/18 代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/19 适配器模式/19 适配器模式.iml" filepath="$PROJECT_DIR$/设计模式/19 适配器模式/19 适配器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/20 桥接模式/20 桥接模式.iml" filepath="$PROJECT_DIR$/设计模式/20 桥接模式/20 桥接模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/21 装饰模式/21 装饰模式.iml" filepath="$PROJECT_DIR$/设计模式/21 装饰模式/21 装饰模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/22 外观模式/22 外观模式.iml" filepath="$PROJECT_DIR$/设计模式/22 外观模式/22 外观模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/23 享元模式/23 享元模式.iml" filepath="$PROJECT_DIR$/设计模式/23 享元模式/23 享元模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/24 组合模式/24 组合模式.iml" filepath="$PROJECT_DIR$/设计模式/24 组合模式/24 组合模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/26 模版方法模式/26 模版方法模式.iml" filepath="$PROJECT_DIR$/设计模式/26 模版方法模式/26 模版方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/27 策略模式/27 策略模式.iml" filepath="$PROJECT_DIR$/设计模式/27 策略模式/27 策略模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/28 命令模式/28 命令模式.iml" filepath="$PROJECT_DIR$/设计模式/28 命令模式/28 命令模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/29 责任链模式/29 责任链模式.iml" filepath="$PROJECT_DIR$/设计模式/29 责任链模式/29 责任链模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/30 状态模式/30 状态模式.iml" filepath="$PROJECT_DIR$/设计模式/30 状态模式/30 状态模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/31 观察者模式/31 观察者模式.iml" filepath="$PROJECT_DIR$/设计模式/31 观察者模式/31 观察者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/32 中介者模式/32 中介者模式.iml" filepath="$PROJECT_DIR$/设计模式/32 中介者模式/32 中介者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/33 迭代器模式/33 迭代器模式.iml" filepath="$PROJECT_DIR$/设计模式/33 迭代器模式/33 迭代器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/34 访问者模式/34 访问者模式.iml" filepath="$PROJECT_DIR$/设计模式/34 访问者模式/34 访问者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/35 备忘录模式/35 备忘录模式.iml" filepath="$PROJECT_DIR$/设计模式/35 备忘录模式/35 备忘录模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/36 解释器模式/36 解释器模式.iml" filepath="$PROJECT_DIR$/设计模式/36 解释器模式/36 解释器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/designPattern.iml" filepath="$PROJECT_DIR$/.idea/designPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计原则/设计原则.iml" filepath="$PROJECT_DIR$/设计原则/设计原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/设计模式.iml" filepath="$PROJECT_DIR$/设计模式/设计模式.iml" />
+    </modules>
+  </component>
+</project>
