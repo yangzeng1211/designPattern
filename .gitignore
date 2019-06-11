@@ -1,2 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/workspace.xml
+/设计原则/*/*.iml
+/设计模式/*/*.iml
